@@ -3,3 +3,4 @@ Assignment 1 (311) group 6
 Nam Anh Nguyen 
 Yuxiao Shen
 Bruno Diaz
+try to edit your name.
